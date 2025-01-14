@@ -6,3 +6,7 @@ https://airy-ghost-31b.notion.site/Goifuyer-10df0040e86480528a26dd13c892e393?pvs
 
 ### プログラミング教室BINGOについて
 https://bingo.jp.net/
+
+
+
+(なんかこうすれば動くと思ってるフレームワーク依存症に対するアイロニーリポジトリ（冗談です）)
